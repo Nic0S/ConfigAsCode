@@ -1,6 +1,6 @@
 {
   "$id": "structfieldtype",
-  "$type": "https://schema.yext.com/config/km/custom-field-type",
+  "$schema": "https://schema.yext.com/config/km/custom-field-type",
   "apiName": "c_structfieldtype",
   "description": "A custom struct field type.",
   "displayName": "structFieldType",
