@@ -1,6 +1,6 @@
 {
   "$id": "workplace",
-  "$type": "https://schema.yext.com/config/km/custom-field",
+  "$schema": "https://schema.yext.com/config/km/custom-field",
   "displayName": "workplace",
   "apiName": "c_workplace",
   "description": "The location where a person works",
