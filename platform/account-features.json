@@ -1,5 +1,5 @@
 {
-  "$type": "https://schema.yext.com/config/platform/account-features",
+  "$schema": "https://schema.yext.com/config/platform/account-features",
   "enabled": [],
   "disabled": []
 }
