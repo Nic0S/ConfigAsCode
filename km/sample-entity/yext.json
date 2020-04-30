@@ -1,6 +1,6 @@
 {
   "$id": "yext",
-  "$type": "https://schema.yext.com/config/km/sample-entity",
+  "$schema": "https://schema.yext.com/config/km/sample-entity",
   "entityType": "location",
   "content": {
     "yext.address": {
