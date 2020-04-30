@@ -1,6 +1,6 @@
 {
   "$id": "person",
-  "$schema": "https://schema.yext.com/config/km/custom-entity-type",
+  "$schema": "https://schema.yext.com/config/km/custom-entity-type/v1",
   "apiName": "ce_person",
   "description": "",
   "displayName": "person",
