@@ -1,6 +1,6 @@
 {
   "$id": "nico",
-  "$schema": "https://schema.yext.com/config/km/sample-entity",
+  "$schema": "https://schema.yext.com/config/km/sample-entity/v1",
   "entityType": "ce_person",
   "content": {
     "c_customStructField": {
