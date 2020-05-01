@@ -1,0 +1,5 @@
+{
+  "$id": "event",
+  "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
+  "enabled": false
+}
