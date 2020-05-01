@@ -5,7 +5,7 @@
   "description": "",
   "displayName": "person",
   "enabled": true,
-  "entry": [
+  "field": [
     {
       "id": "location.business_name",
       "required": true
