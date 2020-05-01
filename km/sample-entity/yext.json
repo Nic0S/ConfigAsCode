@@ -1,7 +1,7 @@
 {
   "$id": "yext",
   "$schema": "https://schema.yext.com/config/km/sample-entity/v1",
-  "entityType": "location",
+  "entityType": "yext/location",
   "content": {
     "yext/address": {
       "city": "New York",
