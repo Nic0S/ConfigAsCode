@@ -6,7 +6,7 @@
   "description": "The location where a person works",
   "localization": "PRIMARY_ONLY",
   "group": "NONE",
-  "typeId": "type.list",
+  "typeId": "yext/list",
   "type": {
     "listType": {
       "maxLength": 1,
@@ -14,11 +14,11 @@
       "type": {
         "entityReferenceType": {
           "supportedEntityTypeIds": [
-            "location"
+            "yext/location"
           ]
         }
       },
-      "typeId": "type.entity_reference"
+      "typeId": "yext/entityReference"
     }
   }
 }
