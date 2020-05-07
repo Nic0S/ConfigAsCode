@@ -17,7 +17,7 @@
               "minValue": "0"
             }
           },
-          "typeId": "type.decimal"
+          "typeId": "yext/decimal"
         },
         {
           "displayName": "textSubfield",
@@ -28,7 +28,7 @@
               "stereotype": "SIMPLE"
             }
           },
-          "typeId": "type.string"
+          "typeId": "yext/string"
         }
       ]
     }
