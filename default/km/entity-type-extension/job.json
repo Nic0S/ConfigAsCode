@@ -1,6 +1,6 @@
 {
-  "$id": "healthcareProfessional",
+  "$id": "job",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
-  "entityType": "yext/healthcareProfessional",
+  "entityType": "yext/job",
   "enabled": false
 }

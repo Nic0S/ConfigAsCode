@@ -1,6 +1,6 @@
 {
-  "$id": "event",
+  "$id": "healthcareProfessional",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
-  "entityType": "yext/event",
+  "entityType": "yext/healthcareProfessional",
   "enabled": false
 }

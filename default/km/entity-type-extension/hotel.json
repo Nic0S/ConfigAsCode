@@ -1,6 +1,6 @@
 {
-  "$id": "atm",
+  "$id": "hotel",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
-  "entityType": "yext/atm",
+  "entityType": "yext/hotel",
   "enabled": false
 }
